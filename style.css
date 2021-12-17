@@ -62,7 +62,7 @@
 /* home section styling */
 .home{
     display: flex;
-    background: url('image/name.gif') no-repeat center;
+    background: url('name.gif') no-repeat center;
     height: 100vh;
     color:white;
     min-width: 500px;
